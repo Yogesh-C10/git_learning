@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+# hellow
 def main():
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'git_l.settings')
